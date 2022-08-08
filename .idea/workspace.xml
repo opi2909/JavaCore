@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c05293c3-733b-434c-802a-0ef37df2c047" name="Changes" comment="Lesson1.1" />
+    <list default="true" id="c05293c3-733b-434c-802a-0ef37df2c047" name="Changes" comment="Lesson1.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson1/TeamMembers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/TeamMembers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/pc/Desktop/JavaLevel1_Lessons/src/Lesson5/Main.java"
+    "last_opened_file_path": "C:/Users/pc/Desktop/JavaLevel1_Lessons/src/Lesson7/App.java"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -115,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659731098187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson1.2">
+      <created>1659731613137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659731613137</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson1.1" />
+    <MESSAGE value="Lesson1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson1.2" />
   </component>
 </project>

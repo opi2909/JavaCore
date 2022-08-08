@@ -1,9 +1,9 @@
 package Lesson1;
 
 public class TeamMembers {
-    String name;
-    String gender;
-    int power;
+    public String name;
+    public String gender;
+    public int power;
 
 
 
@@ -12,11 +12,13 @@ public class TeamMembers {
         gender = genderForMember;
         power = powerForMember;
 
+        }
 
-    }
+
+
+
     public void infoAboutTeamMembers () {
-
-        System.out.println(name + ", " + gender + ", " + power);
-    }
+    System.out.println(name + ", " + gender + ", " + power);
+        }
 
 }
